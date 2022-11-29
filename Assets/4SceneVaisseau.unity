@@ -4588,6 +4588,11 @@ PrefabInstance:
       propertyPath: OnEnter.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
       value: Enfin ! De l'air frais sur ma peau !
       objectReference: {fileID: 0}
+    - target: {fileID: 212148334291403188, guid: 6bc0b2bb61623f94aa335ee8a769a8f9,
+        type: 3}
+      propertyPath: m_Color.a
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6bc0b2bb61623f94aa335ee8a769a8f9, type: 3}
 --- !u!1 &1094734328
@@ -22970,7 +22975,7 @@ MonoBehaviour:
   - {x: 0, y: 0, z: 0}
   - {x: -4.4876595, y: 6.053051, z: 0}
   - {x: -15.232684, y: 14.222286, z: 0}
-  - {x: -43.386276, y: 16.90753, z: 0}
+  - {x: -38.482143, y: 16.90753, z: 0}
   waitTimes:
   - 0
   - 0
@@ -23264,6 +23269,11 @@ PrefabInstance:
         type: 3}
       propertyPath: OnEnter.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
       value: "Attendez que le vaisseau soit pos\xE9 puis montez \xE0 bord."
+      objectReference: {fileID: 0}
+    - target: {fileID: 212148334291403188, guid: 6bc0b2bb61623f94aa335ee8a769a8f9,
+        type: 3}
+      propertyPath: m_Color.a
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6bc0b2bb61623f94aa335ee8a769a8f9, type: 3}
@@ -24889,6 +24899,11 @@ PrefabInstance:
         type: 3}
       propertyPath: OnEnter.m_PersistentCalls.m_Calls.Array.data[4].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 212148334291403188, guid: 6bc0b2bb61623f94aa335ee8a769a8f9,
+        type: 3}
+      propertyPath: m_Color.a
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6bc0b2bb61623f94aa335ee8a769a8f9, type: 3}
