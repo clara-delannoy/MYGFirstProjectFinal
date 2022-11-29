@@ -6,6 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/2DGamekit/Scenes/0Menu.unity
+    guid: 47b046a8740eb9b4fb38f533617887da
+  - enabled: 1
+    path: Assets/2DGamekit/Scenes/UI/UIMenus.unity
+    guid: 705f1f73151a73046842d4e4ec8f514d
+  - enabled: 1
+    path: Assets/2DGamekit/Scenes/UI/Loading.unity
+    guid: ebc4647ff02971c4ba1b207af066be4d
+  - enabled: 1
     path: Assets/1SceneBrouillard.unity
     guid: 6cc3ab44aa437584f8b2092d92afd9d2
   - enabled: 1
@@ -17,13 +26,4 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/4SceneVaisseau.unity
     guid: 86b8658e456ffb14392abac3b324d3bf
-  - enabled: 1
-    path: Assets/2DGamekit/Scenes/0Menu.unity
-    guid: 47b046a8740eb9b4fb38f533617887da
-  - enabled: 1
-    path: Assets/2DGamekit/Scenes/UI/Loading.unity
-    guid: ebc4647ff02971c4ba1b207af066be4d
-  - enabled: 1
-    path: Assets/2DGamekit/Scenes/UI/UIMenus.unity
-    guid: 705f1f73151a73046842d4e4ec8f514d
   m_configObjects: {}
